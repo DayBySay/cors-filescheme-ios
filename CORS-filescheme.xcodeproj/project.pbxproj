@@ -13,6 +13,7 @@
 		3AEE276A1F7BC8C100090FD5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AEE27681F7BC8C100090FD5 /* Main.storyboard */; };
 		3AEE276C1F7BC8C100090FD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AEE276B1F7BC8C100090FD5 /* Assets.xcassets */; };
 		3AEE276F1F7BC8C100090FD5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AEE276D1F7BC8C100090FD5 /* LaunchScreen.storyboard */; };
+		3AEE27791F7BCE3700090FD5 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 3AEE27781F7BCE3700090FD5 /* index.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3AEE276B1F7BC8C100090FD5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3AEE276E1F7BC8C100090FD5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3AEE27701F7BC8C100090FD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3AEE27781F7BCE3700090FD5 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		3AEE275E1F7BC8C100090FD5 /* CORS-filescheme */ = {
 			isa = PBXGroup;
 			children = (
+				3AEE27781F7BCE3700090FD5 /* index.html */,
 				3AEE27621F7BC8C100090FD5 /* AppDelegate.h */,
 				3AEE27631F7BC8C100090FD5 /* AppDelegate.m */,
 				3AEE27651F7BC8C100090FD5 /* ViewController.h */,
@@ -138,6 +141,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3AEE27791F7BCE3700090FD5 /* index.html in Resources */,
 				3AEE276F1F7BC8C100090FD5 /* LaunchScreen.storyboard in Resources */,
 				3AEE276C1F7BC8C100090FD5 /* Assets.xcassets in Resources */,
 				3AEE276A1F7BC8C100090FD5 /* Main.storyboard in Resources */,
